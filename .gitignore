@@ -1,0 +1,28 @@
+
+#From Backend
+.env
+/node_modules
+/react-graphql/node_modules
+
+
+#From React Project
+
+/react-graphql/.pnp
+/react-graphql/.pnp.js
+
+# testing
+/react-graphql/coverage
+
+# production
+/react-graphql/build
+
+# misc
+/react-graphql/.DS_Store
+/react-graphql/.env.local
+/react-graphql/.env.development.local
+/react-graphql/.env.test.local
+/react-graphql/.env.production.local
+
+/react-graphql/npm-debug.log*
+/react-graphql/yarn-debug.log*
+/react-graphql/yarn-error.log*

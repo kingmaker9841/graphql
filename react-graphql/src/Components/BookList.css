@@ -1,0 +1,8 @@
+body {
+    background-color: #eeee;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+li, ul {
+    list-style: none;
+}
